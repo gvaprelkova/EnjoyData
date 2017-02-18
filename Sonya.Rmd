@@ -4,5 +4,9 @@ author: "Sofia Garifzyanova"
 date: "18 02 2017"
 output: html_document
 ---
+<<<<<<< HEAD
 
 Сдесь была Юля
+=======
+как дела?
+>>>>>>> ecb210edf4e5a689876eb169827b06c399b092d5
