@@ -1,0 +1,10 @@
+---
+title: '18.02'
+author: "Aprelkova Galina"
+date: "18 02 2017"
+output: html_document
+---
+
+Bla-bla-bla
+
+Smart is the new beauty^^
