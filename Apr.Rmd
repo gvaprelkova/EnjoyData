@@ -7,4 +7,4 @@ output: html_document
 
 Bla-bla-bla
 
-Smart is the new beauty^^
+Smart is the new beauty^^sgwrthg
